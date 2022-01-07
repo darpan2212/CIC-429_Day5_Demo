@@ -1,0 +1,11 @@
+1) git init
+
+2) git remote add origin 'remote_url'
+
+3) git status
+
+4) git add (.,*, list of files)
+
+5) git commit -m "commit msg"
+
+6) git push origin branch_name
