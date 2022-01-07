@@ -1,11 +1,17 @@
-1) git init
+1) git init -> 
+Initiate git in your local repo
 
-2) git remote add origin 'remote_url'
+2) git remote add origin 'remote_url' ->
+To link remote repo with your local repo
 
-3) git status
+3) git status ->
+Check the status of all the changes in your local repo
 
-4) git add (.,*, list of files)
+4) git add (.,*, list of files)->
+Adding your modifications to the next commit
 
-5) git commit -m "commit msg"
+5) git commit -m "commit msg" ->
+Commit whatever changes you have added with 'git add' cmd
 
-6) git push origin branch_name
+6) git push origin branch_name ->
+upload all you remainig commit to the remote repo, push all the changes with commit
