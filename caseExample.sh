@@ -26,6 +26,10 @@ do
 			echo "$file is an server log file.";
 			;;
 
+			exe)
+			echo "$file is an executable application file.";
+			;;
+			
 			*)
 			echo "$file is having $ext extension";
 			;;
