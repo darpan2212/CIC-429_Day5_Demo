@@ -15,3 +15,23 @@ Commit whatever changes you have added with 'git add' cmd
 
 6) git push origin branch_name ->
 upload all you remainig commit to the remote repo, push all the changes with commit
+
+7) git pull origin branch_name ->
+update the local repo branch from remote repo
+
+8) git branch -M "branch_name" ->
+creating new branch and checking out automatically to that new branch
+
+9) git checkout "branch_name" ->
+checking out to the existing branch
+
+10) git branch -> 
+list of local repo's branch with indicating your current branch
+
+11) git log ->
+list of git commits
+
+12) git diff branch1..branch2 ->
+will give you the difference between two branches
+
+13) 
