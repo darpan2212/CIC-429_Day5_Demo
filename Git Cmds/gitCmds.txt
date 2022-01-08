@@ -34,4 +34,5 @@ list of git commits
 12) git diff branch1..branch2 ->
 will give you the difference between two branches
 
-13) 
+13) git merge branch_name ->
+will merge branch_name to your current branch
