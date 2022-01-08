@@ -30,6 +30,10 @@ do
 			echo "$file is the Library document file.";
 			;;
 
+			exe)
+			echo "$file is an executable application file.";
+			;;
+			
 			*)
 			echo "$file is having $ext extension";
 			;;
