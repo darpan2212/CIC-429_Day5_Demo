@@ -3,3 +3,4 @@ read -p "Enter second number : " b;
 
 c=$(($a+$b));
 echo "$a+$b=$c";
+echo "---------------------------------"
