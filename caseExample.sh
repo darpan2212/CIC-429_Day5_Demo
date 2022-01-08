@@ -26,6 +26,10 @@ do
 			echo "$file is an server log file.";
 			;;
 
+			md)
+			echo "$file is the Library document file.";
+			;;
+
 			*)
 			echo "$file is having $ext extension";
 			;;
